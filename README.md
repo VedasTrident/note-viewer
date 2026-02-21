@@ -1,3 +1,5 @@
+<img width="606" height="273" alt="image" src="https://github.com/user-attachments/assets/1d425e9f-e1fa-48e0-a26a-85d80e6afb4d" />
+
 # Substack Notes Search (Web App + Browser Extension)
 
 Search your Substack Notes in a dedicated web UI — without manually copy-pasting cookies.
